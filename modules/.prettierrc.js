@@ -19,6 +19,7 @@
  */
 
 
+
 const FALLBACK_CONFIG = {
 	bracketSpacing: false,
 	endOfLine: 'lf',
