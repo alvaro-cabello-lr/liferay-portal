@@ -18,6 +18,7 @@
  * standard Prettier config in their development environments.
  */
 
+
 const FALLBACK_CONFIG = {
 	bracketSpacing: false,
 	endOfLine: 'lf',
