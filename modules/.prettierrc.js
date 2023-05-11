@@ -17,6 +17,7 @@
  * NPM modules yet (eg. in a pre-build, clean checkout) will still have
  * standard Prettier config in their development environments.
  */
+
 const FALLBACK_CONFIG = {
 	bracketSpacing: false,
 	endOfLine: 'lf',
