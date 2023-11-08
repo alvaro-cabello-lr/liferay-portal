@@ -43,7 +43,7 @@ const ClayColorPickerWithState = ({
 		if (inputValue) {
 			setColor(inputValue);
 		}
-	}, [inputValue]);
+	}, [inputValue]); 
 
 	return (
 		<>
